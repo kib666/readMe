@@ -76,8 +76,3 @@ My name is <b>Ian Kurby</b><br>
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kib666/kib666/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kib666/kib666/output/snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kib666/kib666/output/snake.svg" />
-</picture>
